@@ -5,7 +5,7 @@ Programmation en mode **Arduino** en utilisant **PlatformIO**.
 
 ## Configuration du projet PlatformIO
 
-Dans **platformio.ini**, défintions:
+Dans **platformio.ini**, définitions:
 
 * carte: nodemcu-32s
 * plateforme: espressif32
